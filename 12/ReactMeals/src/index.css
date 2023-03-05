@@ -8,8 +8,14 @@ html {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   margin: 0;
   background-color: #3f3f3f;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
 
