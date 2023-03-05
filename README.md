@@ -58,7 +58,7 @@
   <br/>
   <br/>
   ![05 - 00 - Homework looks](./images/05-02-homework.gif)
-## 12 - React Context API & UseReducer project
+- 12 - React Context API & UseReducer project
   <br/>
   <br/>  
   
