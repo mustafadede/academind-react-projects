@@ -60,6 +60,26 @@
   ![05 - 00 - Homework looks](./images/05-02-homework.gif)
 - 12 - React Context API & UseReducer project
   <br/>
-  <br/>  
-  
+  <br/>
+
   ![chrome_JQ5pLz0Z9j](https://user-images.githubusercontent.com/95627279/222957299-642e0baa-4d1e-4850-8179-fba8249bfaf0.png)
+
+<br/>
+<br/>
+
+- 14 - Sending HTTP Requests section project
+  <br/>
+  <br/>
+  **Disclaimer:** If you want to run the homework you need to first download the git repo (obviously) and then you need to inside the folder which you want to see the homework. Then you need to open a terminal inside the folder and run this command first:
+  <br/>
+  `npm install`
+  <br/>
+  and then:
+  <br/>
+  `npm start`
+  <br/>
+  You should see the result like the photo below after the start the project.
+  <br/>
+  <br/>
+
+![14 - homework](./images/14-homework.gif)
